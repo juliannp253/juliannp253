@@ -1,4 +1,4 @@
-![Tech Banner](./Banner.png)
+![Tech Banner](./Banner2.png)
 
 
 # 👋 Hey, I'm Julian!
