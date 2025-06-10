@@ -1,3 +1,6 @@
+![Tech Banner](./Banner.png)
+
+
 # 👋 Hey, I'm Julian!
 
 🎓 Computer Science student at **The University of Texas at Rio Grande Valley**  
