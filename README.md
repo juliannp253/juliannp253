@@ -42,16 +42,11 @@ A production-ready RESTful API focused on secure session management and stateles
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliannp253&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
-
----
-
 ## 📫 Let's Connect
 
 📧 julian.padronnunez03@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/julian-padron-72669227a)
+[Portafolio](https://juliannp253.github.io/portafolio-web/)
 
 
 
