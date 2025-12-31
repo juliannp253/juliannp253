@@ -45,7 +45,7 @@ A production-ready RESTful API focused on secure session management and stateles
 ## 📫 Let's Connect
 
 📧 julian.padronnunez03@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/julian-padron-72669227a)
+🔗 [LinkedIn](https://www.linkedin.com/in/julian-padron-72669227a) <br />
 [Portafolio](https://juliannp253.github.io/portafolio-web/)
 
 
