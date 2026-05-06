@@ -4,7 +4,7 @@
 # 👋 Hey, I'm Julian!
 
 🎓 **Software Engineer** | Computer Science Graduate from **The University of Texas Rio Grande Valley** <br />
-🚀 **Backend Developer** specialized in building scalable systems and integrating AI solutions. 
+🚀 **Backend Developer** Focused on building secure, scalable, and maintainable systems using Java, Spring Boot, and Python. 
 
  *"Passionate about architecting robust backends and bridging enterprise logic with Artificial Intelligence."*
 
@@ -12,9 +12,9 @@
 
 ## 💻 Tech Stack
 
-- **Languages**: Java (Strong), Python, SQL, JavaScript, Ruby  
-- **Frameworks**: Spring Boot 3, Spring Security, Hibernate/JPA, Ruby on Rails 8  
-- **Tools & Platforms**: Git, Docker, Maven, Postman, Linux, MongoDB, PostgreSQL  
+- **Languages**: Java (17/21), C#, SQL (PostgreSQL/MySQL), Python, JavaScript, HTML/CSS  
+- **Frameworks**: Spring Boot 3, ASP.NET, React 19, Vite, Spring Security 6, Spring Data JPA, Hibernate  
+- **Tools & Platforms**: GitHub Actions (Automated Deployment Pipelines), Docker (Multi-stage Builds & Container Orchestration), Maven, Git, Postman, Render, Azure DevOps  
 - **Testing**: JUnit 5, Mockito, Cucumber, RSpec
 ---
 
